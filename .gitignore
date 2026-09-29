@@ -1,0 +1,6 @@
+prog3/*.aux
+prog3/*.log
+prog3/*.out
+prog3/*.toc
+prog3/*.auxlock
+prog3/tikz-cache/*.log
